@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+mlflow
+uvicorn
+pydantic
+python-dotenv
+joblib
+great-expectations
+pytest
